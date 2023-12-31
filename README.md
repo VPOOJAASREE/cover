@@ -32,8 +32,16 @@ Publish the website in the LocalHost.
 
 ## PROGRAM:
 
+![Screenshot 2023-12-31 233513](https://github.com/VPOOJAASREE/cover/assets/155145525/8ba84056-336a-4513-aa64-bdb5d9a5c582)
+
+![Screenshot 2023-12-31 233550](https://github.com/VPOOJAASREE/cover/assets/155145525/9395775a-2d80-4c96-addd-8ff33d24e7c8)
+
+![Screenshot 2023-12-31 233612](https://github.com/VPOOJAASREE/cover/assets/155145525/496c7999-65d2-43d2-8b34-7a4283c2dc9d)
+
 
 ## OUTPUT:
+
+![Screenshot 2023-12-31 233648](https://github.com/VPOOJAASREE/cover/assets/155145525/77b6de40-9cea-4c02-aea7-c0690026ff9f)
 
 
 ## RESULT:
